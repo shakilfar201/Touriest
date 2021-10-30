@@ -1,0 +1,8 @@
+.list li{
+    list-style: none;
+}
+.footer{
+    padding: 50px;
+    color: #DDD;
+    background-color: #022739;
+}
